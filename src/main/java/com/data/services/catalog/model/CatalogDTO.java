@@ -12,5 +12,7 @@ import java.util.List;
 
 public class CatalogDTO {
     private String courseName;
-    private List<StudentGradeDTO> studentGrades;
+
+
+    //private List<StudentGradeDTO> studentGrades;
 }
